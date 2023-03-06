@@ -38,4 +38,4 @@ https://github.com/TEkdahl92/Mini-Website.git
 * Remix Icon: https://remixicon.com/
 
 ## Preview
-![Mini Website](image.png)
+![Mini Website](./images/image.png)
